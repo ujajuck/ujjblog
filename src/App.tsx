@@ -1,7 +1,6 @@
 import React from 'react';
-//import logo from './logo.svg';
 import Greetings from './Greetings';
-//import './App.css';
+import './App.css';
 
 const App: React.FC = () => {
   const onClick = (name: string) => {
